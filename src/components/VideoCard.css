@@ -1,0 +1,14 @@
+.hover-card:hover {
+    transform: translateY(-10px) scale(1.03); 
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3); 
+  }
+  
+  .hover-card img:hover {
+    filter: brightness(1.1); 
+  }
+  
+  .hover-card {
+    border: none; 
+    overflow: hidden; 
+  }
+  
